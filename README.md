@@ -2,7 +2,11 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-<img src="https://github.com/devsarahgeo/devsarahgeo/blob/main/sarah_ai_video.gif?raw=true" style="width: 100%; object-fit: cover;" alt="sarah ai gif">
+<div style="text-align: center;">
+  <img src="https://github.com/devsarahgeo/devsarahgeo/blob/main/sarah_ai_video.gif?raw=true" 
+       style="width: 100%; object-fit: cover;" 
+       alt="sarah ai gif">
+</div>
 
 
 
