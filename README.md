@@ -2,14 +2,6 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-<div style="text-align: center;">
-  <img src="https://github.com/devsarahgeo/devsarahgeo/blob/main/sarah_ai_video.gif?raw=true" 
-       style="width: 100%; object-fit: cover;" 
-       alt="sarah ai gif">
-</div>
-
-
-
 ![sarah ai gif](https://github.com/devsarahgeo/devsarahgeo/blob/main/sarah_ai_video.gif)
 
 <p> :wave: Hi, I'm an ex- Android Software Developer, transitioning into the AI space with more than 1yr experience in the AI space.
