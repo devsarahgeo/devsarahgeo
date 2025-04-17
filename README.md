@@ -4,7 +4,7 @@
 
 ![sarah ai gif](https://github.com/devsarahgeo/devsarahgeo/blob/main/sarah_ai_video.gif)
 
-<p> :wave: Hi, I'm an ex- Android Software Developer, transitioning into the AI space with more than 1yr experience in the AI space.
+<p> :wave: Hi, I have worked as an Android Software Developer in the past, I am now transitioning into the AI space with more than 1yr experience in the AI space.
 🚀What I do - LEARN, CREATE, REPEAT!!🚀
 
 Having worked as an Android Software developer for 3+ years, I've developed analytical thinking, problem-solving, and code efficiency skills.
