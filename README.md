@@ -1,4 +1,4 @@
-# 💫 About Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarah-a-george/) 
+# 💫 About Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarah-a-george/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devsarahgeo@gmail.com) 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 <p>🚀What I do - LEARN, CREATE, REPEAT!!🚀
@@ -7,27 +7,14 @@ Having worked as an Android Software developer for 3+ years, I've developed anal
 
 STORY TIME: My interest in data science sparked when I integrated APIs for recommendation systems and used third party libraries to analyze user interactions to identify popular features and improvement areas in the Android app. This exposure to features that are driven by data inspired me to dive deep and learn more about data science and the more I learnt the more exciting it got. Equipped with a strong basis in programming, a keen eye for detail, and an unwavering curiosity, I am enthusiastic about utilizing my technical proficiency and analytical approach to unearth meaningful revelations and propel significant data resolutions.
 
-Skilled in statistical analysis, machine learning model development, and data visualization, I have a proven academic record of designing and implementing solutions that transform complex datasets into actionable insights. I further honed my expertise during my Data Science Internship.
-
-I am currently looking to work in the Artificial Intelligence(AI) space.
-
-Technical Skills🤖:
-
-Programming Languages : Python, SQL, Kotlin, JSON, XML, JavaScript, HTML, CSS 
-Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, NLTK, Spacy, Transformers, TensorFlow/Keras, Gradio,BeautifulSoup, Selenium 
-Analytics Tools: Tableau, Microsoft Excel 
-Operating Systems: Windows, MacOS
-Database Management: Firebase, MongoDB 
-Cloud Platforms:AWS, EC2, S3, EMR 
-Software / Tools: Git, Docker, Jira, Slack, Branch, Moengage, UxCam, Android Studio
+Skilled in statistical analysis, machine learning model development, and data visualization, I have a proven academic record of designing and implementing solutions that transform complex datasets into actionable insights. I further honed my expertise during my Data Science Internships.
 
 Life mission 🧬 - Never stop learning and rising above to make an impact. 🤏
 
 My fav quote - Without requirements or design, programming is the art of adding bugs to an empty text file. 
 
 If you catch me outside of work, I'm a hardcore foodie and I deeply cherish the artistry of dance, which fuels my creativity, discipline, and drive.
-
-Im always on the lookout for interesting and exciting opportunities. Feel free to reach me through Linkedin Messaging or email at devsarahgeo@gmail.com</p>
+</p>
 
 <img align="right" height="150" src="https://github.com/devsarahgeo/devsarahgeo/blob/main/sarah_anime"  />
 
