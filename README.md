@@ -2,7 +2,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-![sarah ai gif](https://github.com/devsarahgeo/devsarahgeo/blob/main/sarah_ai_video.mp4)
+![sarah ai gif](https://github.com/devsarahgeo/devsarahgeo/blob/main/sarah_ai_video.gif)
 
 <p> :wave: Hi, I'm an ex- Android Software Developer, transitioning into the AI space with more than 1yr experience in the AI space.
 🚀What I do - LEARN, CREATE, REPEAT!!🚀
