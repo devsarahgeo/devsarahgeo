@@ -29,7 +29,7 @@ If you catch me outside of work, I'm a hardcore foodie and I deeply cherish the 
 
 Im always on the lookout for interesting and exciting opportunities. Feel free to reach me through Linkedin Messaging or email at devsarahgeo@gmail.com</p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://github.com/devsarahgeo/devsarahgeo/blob/main/sarah_anime"  />
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
