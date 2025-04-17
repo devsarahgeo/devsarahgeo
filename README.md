@@ -53,8 +53,7 @@ Im always on the lookout for interesting and exciting opportunities. Feel free t
 ![](https://github-profile-trophy.vercel.app/?username=devsarahgeo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 <br clear="both">
 
@@ -65,7 +64,3 @@ Im always on the lookout for interesting and exciting opportunities. Feel free t
 </picture>
 
 ###
-
-
-
-
