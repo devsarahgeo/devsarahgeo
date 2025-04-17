@@ -1,7 +1,11 @@
 # 💫 About Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarah-a-george/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devsarahgeo@gmail.com) 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-<p>🚀What I do - LEARN, CREATE, REPEAT!!🚀
+
+![sarah ai gif](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
+
+<p> :wave: Hi, I'm an ex- Android Software Developer, transitioning into the AI space with more than 1yr experience in the AI space.
+🚀What I do - LEARN, CREATE, REPEAT!!🚀
 
 Having worked as an Android Software developer for 3+ years, I've developed analytical thinking, problem-solving, and code efficiency skills.
 
