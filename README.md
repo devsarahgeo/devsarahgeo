@@ -1,6 +1,8 @@
 # 💫 About Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarah-a-george/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devsarahgeo@gmail.com) 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" style="width: 100%; display: block; margin: 0 auto;" alt="Quote Banner">
+
 
 ![sarah ai gif](https://github.com/devsarahgeo/devsarahgeo/blob/main/sarah_ai_video.gif)
 
