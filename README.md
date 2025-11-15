@@ -67,13 +67,12 @@ If you catch me outside of work, I'm a hardcore foodie and I deeply cherish the 
 #
 
 # 📊 GitHub Stats:
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devsarahgeo&show_icons=true&theme=radical" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devsarahgeo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+#
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=devsarahgeo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
