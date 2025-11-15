@@ -66,29 +66,6 @@ If you catch me outside of work, I'm a hardcore foodie and I deeply cherish the 
 
 #
 
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-<div>
-  <a href="https://github.com/devsarahgeo/Kickstarter-web-scraping">
-    <img src="https://raw.githubusercontent.com/devsarahgeo/Kickstarter-web-scraping/main/preview.png" width="400">
-  </a>
-</div>
-<div>
-  <a href="https://github.com/devsarahgeo/Kickstarter-web-scraping">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devsarahgeo&repo=Kickstarter-web-scraping&theme=react">
-  </a>
-</div>
-
-
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
-#
-
-
-
 # 📊 GitHub Stats:
 
 ###
