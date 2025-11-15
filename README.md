@@ -14,7 +14,7 @@ Having worked as an Android Software developer for 3+ years, I've developed anal
 
 STORY TIME: My interest in data science sparked when I integrated APIs for recommendation systems and used third party libraries to analyze user interactions to identify popular features and improvement areas in the Android app. This exposure to features that are driven by data inspired me to dive deep and learn more about data science and the more I learnt the more exciting it got. Equipped with a strong basis in programming, a keen eye for detail, and an unwavering curiosity, I am enthusiastic about utilizing my technical proficiency and analytical approach to unearth meaningful revelations and propel significant data resolutions.
 
-Skilled in statistical analysis, machine learning model development, and data visualization, I have a proven academic record of designing and implementing solutions that transform complex datasets into actionable insights. I further honed my expertise during my Data Science Internships.
+Skilled in statistical analysis, machine learning model development, and data visualization, I have a proven academic record of designing and implementing solutions that transform complex datasets into actionable insights. I further honed my expertise during my Data Science & Data Analytics jobs.
 
 Life mission 🧬 - Never stop learning and rising above to make an impact. 🤏
 
