@@ -1,5 +1,7 @@
 # 💫 About Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarah-a-george/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devsarahgeo@gmail.com) 
 
+**`Data Alchemist(Analyst/Developer/Creator)`**
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ![sarah ai gif](https://github.com/devsarahgeo/devsarahgeo/blob/main/sarah_ai_video.gif)
@@ -25,6 +27,8 @@ If you catch me outside of work, I'm a hardcore foodie and I deeply cherish the 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
 <div>
+
+---
 
 ### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
