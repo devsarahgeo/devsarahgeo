@@ -69,9 +69,8 @@ If you catch me outside of work, I'm a hardcore foodie and I deeply cherish the 
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://github.com/devsarahgeo/Kickstarter-web-scraping">
-  <img src="https://raw.githubusercontent.com/devsarahgeo/Kickstarter-web-scraping/main/preview.png" width="500">
+  <img src="https://raw.githubusercontent.com/devsarahgeo/Kickstarter-web-scraping/main/preview.png" width="250">
 </a>
-
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=devsarahgeo&repo=Kickstarter-web-scraping&theme=react)](https://github.com/devsarahgeo/Kickstarter-web-scraping)
 [![Java Isn't Verbose // we just suck](https://ytcards.demolab.com/?id=UZuWeLjyT3c&title=Java+Isn%27t+Verbose+%2F%2F+we+just+suck&lang=en&timestamp=1761941401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1275 "Java Isn't Verbose // we just suck")](https://www.youtube.com/watch?v=UZuWeLjyT3c)
 [![Everything You Need to Know About Coding with AI // NOT vibe coding](https://ytcards.demolab.com/?id=5fhcklZe-qE&title=Everything+You+Need+to+Know+About+Coding+with+AI+%2F%2F+NOT+vibe+coding&lang=en&timestamp=1760552100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=795 "Everything You Need to Know About Coding with AI // NOT vibe coding")](https://www.youtube.com/watch?v=5fhcklZe-qE)
