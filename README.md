@@ -69,7 +69,7 @@ If you catch me outside of work, I'm a hardcore foodie and I deeply cherish the 
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://github.com/devsarahgeo/Kickstarter-web-scraping">
-  <img src="https://raw.githubusercontent.com/devsarahgeo/Kickstarter-web-scraping/main/preview.png" width="250">
+  <img src="https://raw.githubusercontent.com/devsarahgeo/Kickstarter-web-scraping/main/preview.png" width="500">
 </a>
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=devsarahgeo&repo=Kickstarter-web-scraping&theme=react)](https://github.com/devsarahgeo/Kickstarter-web-scraping)
