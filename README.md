@@ -68,7 +68,6 @@ If you catch me outside of work, I'm a hardcore foodie and I deeply cherish the 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![I Tried Coding on Every OS // My Thoughts]
 <a href="https://github.com/devsarahgeo/Kickstarter-web-scraping">
   <img src="https://raw.githubusercontent.com/devsarahgeo/Kickstarter-web-scraping/main/preview.png" width="250">
 </a>
