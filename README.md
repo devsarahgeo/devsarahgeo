@@ -16,7 +16,7 @@ Having worked as an Android Software developer for 3+ years, I've developed anal
 <b>From Code to Insight:</b> My transition into data science wasn't accidental; it was sparked by the very systems I was building. While developing Android applications, I integrated recommendation APIs and analyzed user interaction patterns to identify high-value features and UX pain points. That "aha" moment—seeing how data-driven decisions directly shaped product success—drove me to dive deeper into machine learning, statistical analysis, and predictive modeling.
 
 <b>What I Bring</b>:
-- <b>Technical Rigor:</b> 3+ years of software engineering instilled in me a deep appreciation for clean, efficient code and scalable architecture - skills I now apply to building robust ML pipelines and data models.
+- <b>Technical Rigor:</b> 3+ years of software engineering instilled in me a deep appreciation for clean, efficient code and scalable architecture, skills I now apply to building robust ML pipelines and data models.
 - <b>Analytical Depth:</b> Proven ability to translate complex, messy datasets into clear, actionable business strategies through statistical analysis and advanced data visualization.
 - <b>End-to-End Ownership:</b> Experience spanning data extraction and cleaning to model deployment and stakeholder communication, ensuring insights don't just stay in a Jupyter notebook.
 
