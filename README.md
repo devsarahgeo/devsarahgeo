@@ -7,20 +7,26 @@
 
 ![sarah ai gif](https://github.com/devsarahgeo/devsarahgeo/blob/main/sarah_ai_video.gif)
 
-<p> :wave: Hi, I have worked as an Android Software Developer in the past, I am now transitioning into the AI space with 2+ years of experience in the Data and AI space.
-🚀What I do - LEARN, CREATE, REPEAT!!🚀
+<p> :wave: Hi, I am a Data Analyst/Data Scientist with 3+ years of specialized experience in the Data and AI space, building upon a strong foundation as a Software Developer (Android).
+  
+🚀<b>My Philosophy:</b> Learn, Create, Repeat. I believe in continuous iteration—turning complex data into tangible impact through rigorous analysis and creative problem-solving.🚀
 
 Having worked as an Android Software developer for 3+ years, I've developed analytical thinking, problem-solving, and code efficiency skills.
 
-STORY TIME: My interest in data science sparked when I integrated APIs for recommendation systems and used third party libraries to analyze user interactions to identify popular features and improvement areas in the Android app. This exposure to features that are driven by data inspired me to dive deep and learn more about data science and the more I learnt the more exciting it got. Equipped with a strong basis in programming, a keen eye for detail, and an unwavering curiosity, I am enthusiastic about utilizing my technical proficiency and analytical approach to unearth meaningful revelations and propel significant data resolutions.
+<b>From Code to Insight:</b> My transition into data science wasn't accidental; it was sparked by the very systems I was building. While developing Android applications, I integrated recommendation APIs and analyzed user interaction patterns to identify high-value features and UX pain points. That "aha" moment—seeing how data-driven decisions directly shaped product success—drove me to dive deeper into machine learning, statistical analysis, and predictive modeling.
 
-Skilled in statistical analysis, machine learning model development, and data visualization, I have a proven academic record of designing and implementing solutions that transform complex datasets into actionable insights. I further honed my expertise during my Data Science & Data Analytics jobs.
+<b>What I Bring</b>:
+- <b>Technical Rigor:</b> 3+ years of software engineering instilled in me a deep appreciation for clean, efficient code and scalable architecture - skills I now apply to building robust ML pipelines and data models.
+- <b>Analytical Depth:</b> Proven ability to translate complex, messy datasets into clear, actionable business strategies through statistical analysis and advanced data visualization.
+- <b>End-to-End Ownership:</b> Experience spanning data extraction and cleaning to model deployment and stakeholder communication, ensuring insights don't just stay in a Jupyter notebook.
 
-Life mission 🧬 - Never stop learning and rising above to make an impact. 🤏
+<b>Beyond the Screen:</b> When I'm not exploring datasets, you'll find me hunting down the best local food spots or expressing myself through dance—both of which fuel my creativity, discipline, and relentless drive to master new crafts.
 
-My fav quote - Without requirements or design, programming is the art of adding bugs to an empty text file. 
+<i>Fav Quote: "Without requirements or design, programming is the art of adding bugs to an empty text file."</i>
+  — A reminder of why I prioritize clarity, structure, and intentionality in every project I undertake.
+  
+<b>Mission</b>: Never stop learning. Build things that matter. 🚀
 
-If you catch me outside of work, I'm a hardcore foodie and I deeply cherish the artistry of dance, which fuels my creativity, discipline, and drive.
 </p>
 
 <img align="right" height="150" src="https://github.com/devsarahgeo/devsarahgeo/blob/main/sarah_anime"  />
@@ -33,19 +39,19 @@ If you catch me outside of work, I'm a hardcore foodie and I deeply cherish the 
 
 ### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat&logo=apachehive&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=google-bigquery&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
@@ -59,6 +65,15 @@ If you catch me outside of work, I'm a hardcore foodie and I deeply cherish the 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34)
 
 </div>
 
