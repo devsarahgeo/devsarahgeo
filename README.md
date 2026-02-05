@@ -7,7 +7,7 @@
 
 ![sarah ai gif](https://github.com/devsarahgeo/devsarahgeo/blob/main/sarah_ai_video.gif)
 
-<p> :wave: Hi, I am a Data Analyst/Data Scientist with 3 years of experience in the Data and AI space, building upon a strong foundation as a Software Developer (Android).
+<p> :wave: Hi, I am a Data Analyst/Data Scientist with 2+ years of experience in the Data and AI space, building upon a strong foundation as a Software Developer (Android).
   
 🚀<b>My Philosophy:</b> Learn, Create, Repeat. I believe in continuous iteration—turning complex data into tangible impact through rigorous analysis and creative problem-solving.🚀
 
