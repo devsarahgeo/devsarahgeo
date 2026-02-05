@@ -7,16 +7,16 @@
 
 ![sarah ai gif](https://github.com/devsarahgeo/devsarahgeo/blob/main/sarah_ai_video.gif)
 
-<p> :wave: Hi, I am a Data Analyst/Data Scientist with 3+ years of specialized experience in the Data and AI space, building upon a strong foundation as a Software Developer (Android).
+<p> :wave: Hi, I am a Data Analyst/Data Scientist with 3 years of experience in the Data and AI space, building upon a strong foundation as a Software Developer (Android).
   
 🚀<b>My Philosophy:</b> Learn, Create, Repeat. I believe in continuous iteration—turning complex data into tangible impact through rigorous analysis and creative problem-solving.🚀
 
-Having worked as an Android Software developer for 3+ years, I've developed analytical thinking, problem-solving, and code efficiency skills.
+Having worked as an Software developer(Android/Web) for 3+ years, I've developed analytical thinking, problem-solving, and code efficiency skills.
 
 <b>From Code to Insight:</b> My transition into data science wasn't accidental; it was sparked by the very systems I was building. While developing Android applications, I integrated recommendation APIs and analyzed user interaction patterns to identify high-value features and UX pain points. That "aha" moment—seeing how data-driven decisions directly shaped product success—drove me to dive deeper into machine learning, statistical analysis, and predictive modeling.
 
 <b>What I Bring</b>:
-- <b>Technical Rigor:</b> 3+ years of software engineering instilled in me a deep appreciation for clean, efficient code and scalable architecture, skills I now apply to building robust ML pipelines and data models.
+- <b>Technical Rigor:</b> 3+ years of software engineering experience instilled in me a deep appreciation for clean, efficient code and scalable architecture, skills I now apply to building robust ML pipelines and data models.
 - <b>Analytical Depth:</b> Proven ability to translate complex, messy datasets into clear, actionable business strategies through statistical analysis and advanced data visualization.
 - <b>End-to-End Ownership:</b> Experience spanning data extraction and cleaning to model deployment and stakeholder communication, ensuring insights don't just stay in a Jupyter notebook.
 
