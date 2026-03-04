@@ -23,7 +23,7 @@ Having worked as an Software developer(Android/Web), I've developed analytical t
 <b>Beyond the Screen:</b> When I'm not exploring datasets, you'll find me hunting down the best local food spots or expressing myself through dance, both of which fuel my creativity, discipline, and relentless drive to master new crafts.
 
 <i>Fav Quote: "Without requirements or design, programming is the art of adding bugs to an empty text file."</i>
-  — A reminder of why I prioritize clarity, structure, and intentionality in every project I undertake.
+  - A reminder of why I prioritize clarity, structure, and intentionality in every project I undertake.
   
 <b>Mission</b>: Never stop learning. Build things that matter. 🚀
 
