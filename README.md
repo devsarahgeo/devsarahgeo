@@ -9,7 +9,7 @@
 
 <p> :wave: Hi, I am a Data Analyst/Data Scientist with 3+ years of analytics experience and 3+ years of background in software engineering(Web/Mobile).
   
-🚀<b>My Philosophy:</b> Learn, Create, Repeat. I believe in continuous iteration—turning complex data into tangible impact through rigorous analysis and creative problem-solving.🚀
+🚀<b>My Philosophy:</b> Learn, Create, Repeat. I believe in continuous iteration, turning complex data into tangible impact through rigorous analysis and creative problem-solving.🚀
 
 Having worked as an Software developer(Android/Web), I've developed analytical thinking, problem-solving, and code efficiency skills.
 
@@ -20,7 +20,7 @@ Having worked as an Software developer(Android/Web), I've developed analytical t
 - <b>Analytical Depth:</b> Proven ability to translate complex, messy datasets into clear, actionable business strategies through statistical analysis and advanced data visualization.
 - <b>End-to-End Ownership:</b> Experience spanning data extraction and cleaning to model deployment and stakeholder communication, ensuring insights don't just stay in a Jupyter notebook.
 
-<b>Beyond the Screen:</b> When I'm not exploring datasets, you'll find me hunting down the best local food spots or expressing myself through dance—both of which fuel my creativity, discipline, and relentless drive to master new crafts.
+<b>Beyond the Screen:</b> When I'm not exploring datasets, you'll find me hunting down the best local food spots or expressing myself through dance, both of which fuel my creativity, discipline, and relentless drive to master new crafts.
 
 <i>Fav Quote: "Without requirements or design, programming is the art of adding bugs to an empty text file."</i>
   — A reminder of why I prioritize clarity, structure, and intentionality in every project I undertake.
