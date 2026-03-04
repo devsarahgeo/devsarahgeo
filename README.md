@@ -13,7 +13,7 @@
 
 Having worked as an Software developer(Android/Web), I've developed analytical thinking, problem-solving, and code efficiency skills.
 
-<b>From Code to Insight:</b> My transition into data science wasn't accidental; it was sparked by the very systems I was building. While developing Android applications, I integrated recommendation APIs and analyzed user interaction patterns to identify high-value features and UX pain points. That "aha" moment seeing how data-driven decisions directly shaped product success-drove me to dive deeper into machine learning, statistical analysis, and predictive modeling.
+<b>From Code to Insight:</b> My transition into data science wasn't accidental; it was sparked by the very systems I was building. While developing Android applications, I integrated recommendation APIs and analyzed user interaction patterns to identify high-value features and UX pain points. That "aha" moment seeing how data-driven decisions directly shaped product success drove me to dive deeper into data analysis and predictive modeling.
 
 <b>What I Bring</b>:
 - <b>Technical Rigor:</b> 3+ years of software engineering experience instilled in me a deep appreciation for clean, efficient code and scalable architecture, skills I now apply to building robust ML pipelines and data models.
