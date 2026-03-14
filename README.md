@@ -5,7 +5,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-![sarah ai gif](https://github.com/devsarahgeo/devsarahgeo/blob/main/sarah_ai.gif)
+![sarah ai gif](https://github.com/devsarahgeo/devsarahgeo/blob/main/sarah_ai2.gif)
 
 <p> :wave: Hi, I am a Data Analyst/Data Scientist with 3+ years of analytics experience and a background in software engineering(Web/Mobile).
   
