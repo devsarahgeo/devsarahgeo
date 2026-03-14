@@ -5,7 +5,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-![sarah ai gif](https://github.com/devsarahgeo/devsarahgeo/blob/main/sarah_ai_video.gif)
+![sarah ai gif](https://github.com/devsarahgeo/devsarahgeo/blob/main/sarah_ai.gif)
 
 <p> :wave: Hi, I am a Data Analyst/Data Scientist with 3+ years of analytics experience and a background in software engineering(Web/Mobile).
   
@@ -28,9 +28,7 @@ Having worked as an Software developer(Android/Web), I've developed analytical t
 
 </p>
 
-<!-- <img align="right" height="150" src="https://github.com/devsarahgeo/devsarahgeo/blob/main/sarah_anime"  /> -->
-
-<img align="right" height="150" src="https://github.com/devsarahgeo/devsarahgeo/blob/main/Video_Conversion_Request_Granted.mp4/>
+<img align="right" height="150" src="https://github.com/devsarahgeo/devsarahgeo/blob/main/sarah_anime"/> 
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
