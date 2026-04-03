@@ -5,6 +5,8 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
+**SCROLL DOWN TO SEE PINNED PROJECTS**
+
 ![sarah ai gif](https://github.com/devsarahgeo/devsarahgeo/blob/main/sarah_ai2.gif)
 
 <p> :wave: Hi, I am a Data Analyst with 3+ years of analytics experience and a background in software engineering(Web/Mobile).
