@@ -13,12 +13,13 @@
 
 Having worked as an Software developer(Android/Web), I've developed analytical thinking, problem-solving, and code efficiency skills.
 
-<b>From Code to Insight:</b> My transition into data science wasn't accidental; it was sparked by the very systems I was building. While developing Android applications, I integrated recommendation APIs and analyzed user interaction patterns to identify high-value features and UX pain points. That "aha" moment seeing how data-driven decisions directly shaped product success drove me to dive deeper into data analysis and predictive modeling.
+<b>From Code to Insight:</b> My transition into data science wasn't accidental; it was sparked by the very systems I was building. 
+1 project changed everything - The data was telling a story. I couldn't stop digging. That was the moment data became my obsession.
 
 <b>What I Bring</b>:
-- <b>Technical Rigor:</b> 3+ years of software engineering experience instilled in me a deep appreciation for clean, efficient code and scalable architecture, skills I now apply to building robust ML pipelines and data models.
+- <b>Technical Rigor:</b> 3+ years of software engineering experience instilled in me a deep appreciation for clean, efficient code and scalable architecture, skills I now apply to building robust data pipelines and data models.
 - <b>Analytical Depth:</b> Proven ability to translate complex, messy datasets into clear, actionable business strategies through statistical analysis and advanced data visualization.
-- <b>End-to-End Ownership:</b> Experience spanning data extraction and cleaning to model deployment and stakeholder communication, ensuring insights don't just stay in a Jupyter notebook.
+- <b>End-to-End Ownership:</b> Experience spanning data extraction and cleaning to deployment and stakeholder communication, ensuring insights don't just stay in a Jupyter notebook.
 
 <b>Beyond the Screen:</b> When I'm not exploring datasets, you'll find me hunting down the best local food spots or expressing myself through dance, both of which fuel my creativity, discipline, and relentless drive to master new crafts.
 
