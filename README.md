@@ -19,7 +19,7 @@ Having worked as an Software developer(Android/Web), I've developed analytical t
 1 project changed everything - The data was telling a story. I couldn't stop digging. That was the moment data became my obsession.
 
 <b>What I Bring</b>:
-- <b>Technical Rigor:</b> 3+ years of software engineering experience instilled in me a deep appreciation for clean, efficient code and scalable architecture, skills I now apply to building robust data pipelines and data models.
+- <b>Technical Rigor:</b> 4+ years of software engineering experience instilled in me a deep appreciation for clean, efficient code and scalable architecture, skills I now apply to building robust data pipelines and data models.
 - <b>Analytical Depth:</b> Proven ability to translate complex, messy datasets into clear, actionable business strategies through statistical analysis and advanced data visualization.
 - <b>End-to-End Ownership:</b> Experience spanning data extraction and cleaning to deployment and stakeholder communication, ensuring insights don't just stay in a Jupyter notebook.
 
