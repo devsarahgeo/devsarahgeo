@@ -9,7 +9,7 @@
 
 ![sarah ai gif](https://github.com/devsarahgeo/devsarahgeo/blob/main/sarah_ai2.gif)
 
-<p> :wave: Hi, I am an Analytics Engineer with 4+ years of experience building data pipelines, data models, and delivering actionable insights, with a foundation in software engineering (Web/Mobile) and 1.5+ years as an AI Enginer developing NLP and LLM-based systems across SaaS, GovTech, E-commerce, and Gaming.
+<p> :wave: Hi, I am an Analytics Engineer with 4+ years of experience building data pipelines, data models, and delivering actionable insights, with a foundation in software engineering (Web/Mobile) and hands-on experience in Applied AI (LLMs & NLP) across SaaS, GovTech, E-commerce, and Gaming.
   
 🚀<b>My Philosophy:</b> Learn, Create, Repeat. I believe in continuous iteration, turning complex data into tangible impact through rigorous analysis and creative problem-solving.🚀
 
