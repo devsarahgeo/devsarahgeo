@@ -9,12 +9,10 @@
 
 ![sarah ai gif](https://github.com/devsarahgeo/devsarahgeo/blob/main/sarah_ai2.gif)
 
-<p> :wave: Hi, I am an Analytics Engineer with 4+ years of experience building data pipelines, data models, and delivering actionable insights, with a foundation in software engineering (Web/Mobile) and hands-on experience in Applied AI (LLMs & NLP) across SaaS, GovTech, E-commerce, and Gaming.
+<p> :wave: Hi, I love building from 0 -> 1 in the analytics and AI space. I have worked across GovTech, E-commerce, and Gaming. I believe learning is a constant process, and I do that via projects and hackathons, I am someone who gets excited to work with new problems, tools and technologies.
   
 🚀<b>My Philosophy:</b> Learn, Create, Repeat. I believe in continuous iteration, turning complex data into tangible impact through rigorous analysis and creative problem-solving.🚀
 
-<b>From Code to Insight:</b> My transition into data science wasn't accidental; it was sparked by the very systems I was building. 
-1 project changed everything - The data was telling a story. I couldn't stop digging. That was the moment data became my obsession.
 
 <b>What I Bring</b>:
 - <b>Technical Rigor:</b> 3+ years of software engineering experience instilled in me a deep appreciation for clean, efficient code and scalable architecture, skills I now apply to building robust data pipelines and data models.
