@@ -1,7 +1,7 @@
 
 # 🦄 Sarah George: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarah-a-george/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devsarahgeo@gmail.com) 
 
-**`AI/ML Builder | Data Alchemist`**
+**`AI/ML Engineer | Data Alchemist`**
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
