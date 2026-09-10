@@ -26,7 +26,7 @@ I'm especially excited by ambiguous problems where I can go from data → model 
 
 <b>Beyond the Screen:</b> When I'm not building models or exploring datasets, you'll find me hunting down the best local food spots or expressing myself through dance - both of which keep me curious, creative, and constantly learning.
 
-<i>Fav Quote: "Without requirements or design, programming is the art of adding bugs to an empty text file."</i> — A reminder that good engineering starts with clarity, structure, and intentionality.
+<i>Fav Quote: "Without requirements or design, programming is the art of adding bugs to an empty text file."</i> - A reminder that good engineering starts with clarity, structure, and intentionality.
 
 <b>Mission:</b> Build intelligent systems. Turn ideas into products. 🚀
 
