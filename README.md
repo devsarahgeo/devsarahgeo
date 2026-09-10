@@ -11,7 +11,7 @@
 
 <p>
 
-:wave: Hi! I love building AI/ML solutions from 0 → 1 from experimenting with models and algorithms to turning them into real, usable products. My work spans machine learning, NLP, computer vision, LLMs, RAG, data engineering, and analytics, across GovTech, E-commerce, Sports, Private Equity.
+:wave: Hi! I love building AI/ML solutions from 0 → 1 from experimenting with models and algorithms to turning them into real, usable products. I have 6+ years of industry experience and my work spans machine learning, NLP, computer vision, LLMs, RAG, data engineering, building full-stack applications and analytics, across GovTech, E-commerce, Sports, Private Equity.
 
 I'm especially excited by ambiguous problems where I can go from data → model → system → product, continuously learning and iterating along the way. I enjoy exploring new technologies, building prototypes, and taking ideas from a Jupyter notebook to something people can actually use.
 
