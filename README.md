@@ -1,7 +1,7 @@
 
 # 🦄 Sarah George: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarah-a-george/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devsarahgeo@gmail.com) 
 
-**`Data Alchemist(Analyst/Scientist/Creator)`**
+**`AI/ML Builder | Data Alchemist`**
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
@@ -9,21 +9,26 @@
 
 ![sarah ai gif](https://github.com/devsarahgeo/devsarahgeo/blob/main/sarah_ai2.gif)
 
-<p> :wave: Hi, I love building from 0 -> 1 in the analytics and AI space. I have worked across GovTech, E-commerce, and Gaming. I believe learning is a constant process, and I do that via projects and hackathons, I am someone who gets excited to work with new problems, tools and technologies.
-  
-🚀<b>My Philosophy:</b> Learn, Create, Repeat. I believe in continuous iteration, turning complex data into tangible impact through rigorous analysis and creative problem-solving.🚀
+<p>
 
+:wave: Hi! I love building AI/ML solutions from 0 → 1 from experimenting with models and algorithms to turning them into real, usable products. My work spans machine learning, NLP, computer vision, LLMs, RAG, data engineering, and analytics, across GovTech, E-commerce, Sports, Private Equity.
+
+I'm especially excited by ambiguous problems where I can go from data → model → system → product, continuously learning and iterating along the way. I enjoy exploring new technologies, building prototypes, and taking ideas from a Jupyter notebook to something people can actually use.
+
+🚀 <b>My Philosophy:</b> <b>Learn. Build. Iterate.</b> I believe the best way to learn is by building - experimenting with models, understanding why they work, shipping solutions, and improving them through iteration.
 
 <b>What I Bring</b>:
-- <b>Technical Rigor:</b> 3+ years of software engineering experience instilled in me a deep appreciation for clean, efficient code and scalable architecture, skills I now apply to building robust data pipelines and data models.
-- <b>Analytical Depth:</b> Proven ability to translate complex, messy datasets into clear, actionable business strategies through statistical analysis and advanced data visualization.
-- <b>End-to-End Ownership:</b> Experience spanning data extraction and cleaning to deployment and stakeholder communication, ensuring insights don't just stay in a Jupyter notebook.
 
-<b>Beyond the Screen:</b> When I'm not exploring datasets, you'll find me hunting down the best local food spots or expressing myself through dance, both of which fuel my creativity, discipline, and relentless drive to master new crafts.
+<b>AI/ML Engineering:</b> Experience building solutions across <b>NLP, computer vision, LLMs, RAG, and machine learning</b> from model experimentation and evaluation to integrating models into end-to-end applications.
+<b>Software Engineering:</b> Building scalable systems, APIs, cloud infrastructure, and clean, maintainable code</b> - skills I bring to production-oriented AI/ML development.
+<b>Data & Analytics:</b> Strong analytical foundation spanning <b>SQL, data modeling, experimentation, statistical analysis, dashboards, and data pipelines</b>, allowing me to work across the full lifecycle from raw data to actionable insights.
+<b>End-to-End Ownership:</b> I enjoy owning the entire journey - <b>problem definition → data → modeling → engineering → deployment → evaluation</b> and turning ideas into working products rather than stopping at a proof of concept.
 
-<i>Fav Quote: "Without requirements or design, programming is the art of adding bugs to an empty text file."</i> - A reminder of why I prioritize clarity, structure, and intentionality in every project I undertake.
-  
-<b>Mission</b>: Never stop learning. Build things that matter. 🚀
+<b>Beyond the Screen:</b> When I'm not building models or exploring datasets, you'll find me hunting down the best local food spots or expressing myself through dance - both of which keep me curious, creative, and constantly learning.
+
+<i>Fav Quote: "Without requirements or design, programming is the art of adding bugs to an empty text file."</i> — A reminder that good engineering starts with clarity, structure, and intentionality.
+
+<b>Mission:</b> Build intelligent systems. Turn ideas into products. 🚀
 
 </p>
 
