@@ -19,7 +19,7 @@ I'm especially excited by ambiguous problems where I can go from data → model 
 
 <b>What I Bring</b>:
 
-- <b>AI/ML Engineering:</b> Experience building scalable solutions across <b>NLP, computer vision, LLMs, RAG, and machine learning</b> from model experimentation and evaluation to integrating models into end-to-end applications.
+- <b>AI Engineering:</b> Experience building scalable solutions across <b>NLP, computer vision, LLMs, RAG, and machine learning</b> from model experimentation and evaluation to integrating models into end-to-end applications.
 - <b>Data & Analytics:</b> Strong analytical foundation spanning <b>SQL, data modeling, experimentation, statistical analysis, dashboards, and data pipelines</b>, allowing me to work across the full lifecycle from raw data to actionable insights.
 - <b>End-to-End Ownership:</b> I enjoy owning the entire journey - <b>problem definition → data → modeling → engineering → deployment → evaluation</b> and turning ideas into working products rather than stopping at a proof of concept.
 
